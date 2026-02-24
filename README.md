@@ -68,12 +68,6 @@ I'm a passionate Frontend Developer with a strong focus on building cross-platfo
   <a href="https://www.instagram.com/vsaaaalll?igsh=eGNqcWZkY3A3ZzZy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
----
 
-## ✨ Personal Philosophy
-
-> *“Build. Learn. Improve. Repeat.”*
-
----
 
 ⭐️ From [Vishal Sable](https://github.com/sablevishal495-a11y)
