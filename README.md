@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sablevishal495-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://www.linkedin.com/in/vishal-sable-14a008339/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sablevishal495-a11y" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/vsaaaalll?igsh=eGNqcWZkY3A3ZzZy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
@@ -22,6 +23,7 @@ I'm a passionate Frontend Developer with a strong focus on building cross-platfo
 ---
 
 ## 🛠️ Tech Stack
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,6 +47,7 @@ I'm a passionate Frontend Developer with a strong focus on building cross-platfo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
 ## 📈 GitHub Analytics
 
@@ -57,6 +60,11 @@ I'm a passionate Frontend Developer with a strong focus on building cross-platfo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sablevishal495-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
+<!-- Optional: Add a contributions graph (more dynamic) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sablevishal495-a11y&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
+</p>
+
 ---
 
 ## 🔗 Connect With Me
@@ -64,6 +72,7 @@ I'm a passionate Frontend Developer with a strong focus on building cross-platfo
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-sable-14a008339/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sablevishal495-a11y" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/vsaaaalll?igsh=eGNqcWZkY3A3ZzZy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
