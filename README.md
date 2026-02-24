@@ -55,7 +55,6 @@ I'm a passionate Frontend Developer with a strong focus on building cross-platfo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sablevishal495-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <!-- No extra graphs added – keeping it clean -->
