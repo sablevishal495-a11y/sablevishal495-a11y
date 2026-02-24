@@ -69,5 +69,3 @@ I'm a passionate Frontend Developer with a strong focus on building cross-platfo
 </p>
 
 ---
-
-⭐️ From [Vishal Sable](https://github.com/sablevishal495-a11y)
