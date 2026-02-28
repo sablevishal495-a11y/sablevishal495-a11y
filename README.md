@@ -19,7 +19,7 @@ I'm a passionate Frontend Developer with a strong focus on building cross-platfo
 - 🌱 **Learning Path**: Full-Stack Development & Data Analytics  
 - 🎯 **Goal**: Build impactful applications that blend great UX with data-driven decisions  
 
----  
+---   
 
 ## 🛠️ Tech Stack
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
