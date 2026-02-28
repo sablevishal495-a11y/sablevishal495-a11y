@@ -46,7 +46,7 @@ I'm a passionate Frontend Developer with a strong focus on building cross-platfo
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
    
 ---  
-
+ 
 ## 📈 GitHub Analytics
 
 <p align="center">
