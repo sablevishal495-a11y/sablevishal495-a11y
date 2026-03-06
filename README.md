@@ -8,7 +8,7 @@
 </p>     
     
 ---                 
-        
+         
 ## 👨‍💻 About Me     
  
 I'm a passionate Frontend Developer with a strong focus on building cross-platform mobile applications using **React Native**. I enjoy crafting clean, user-friendly interfaces and have a growing interest in **Data Science**—leveraging data to uncover insights and solve real-world problems.
