@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Sable;AI+%26+ML+Enthusiast;Building+Smart+Tech+Solutions;LLMs+%7C+Machine+Learning+%7C+Data+Science)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalsable&label=Profile%20Views&color=6366f1&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohitmalviya0707&label=Profile%20Views&color=6366f1&style=flat" alt="profile views" />
 </p>
 
 </div>
